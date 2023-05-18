@@ -1,4 +1,10 @@
-About prompt engineering reference 
+About prompt engineering reference
+
+我用中文最易懂的方式来写
+
+1 吴恩达的prompt提示工程
+
+2 prompt实践方面
 
 https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 

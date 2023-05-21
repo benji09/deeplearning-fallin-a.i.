@@ -1,10 +1,12 @@
-About prompt engineering reference
+About prompt engineering
 
-我用中文最易懂的方式来写
+我用中文最易懂的方式写
 
 1 吴恩达的prompt提示工程
 
 2 prompt实践方面
+
+3 
 
 https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 
@@ -18,6 +20,29 @@ openAI的python库来访问openAI API : 安装这个库: pip install openai
 https://openai.xiniushu.com/docs/libraries
 英文文档：
 https://platform.openai.com/account/billing/overview    
+
+1. 可以复习下python
+2. 再接着看openai的文档
+开发人员：使用 API 调用到 LLM，以快速构建软件应用程序
+
+LLM类型：基础LLM 、指令微调LLM
+    基础LLM: 基于文本训练数据，训练出预测下一个单词能力的模型，其通常是在互联网和其他来源的大量数据上训练的。
+
+    指令调整的 LLMs 的训练通常是从已经训练好的基本 LLMs 开始，该模型已经在大量文本数据上进行了训练。指令调整的 LLMs 已经被训练成有益、诚实和无害的，
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

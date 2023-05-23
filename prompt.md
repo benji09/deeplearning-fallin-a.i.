@@ -33,6 +33,8 @@ LLM类型：基础LLM 、指令微调LLM
 
 
 3. openai version: 0.27.6
+4. some guide
+https://boostpixels.com/guide
 
 
 

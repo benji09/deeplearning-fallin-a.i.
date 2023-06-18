@@ -22,6 +22,13 @@ https://openai.xiniushu.com/docs/libraries
 https://platform.openai.com/account/billing/overview    
 
 1. 可以复习下python
+key放在系统变量，位置注意
+相关报错
+1. 
+ raise self.handle_error_response(
+openai.error.RateLimitError: You exceeded your current quota, please check your plan and billing details.
+//配额查看，免费问题就升级到付费
+
 2. 再接着看openai的文档
 开发人员：使用 API 调用到 LLM，以快速构建软件应用程序
 
@@ -35,6 +42,7 @@ LLM类型：基础LLM 、指令微调LLM
 3. openai version: 0.27.6
 4. some guide
 https://boostpixels.com/guide
+
 
 
 5. think

@@ -47,15 +47,13 @@ https://boostpixels.com/guide
 
 
 
-5. think
+5. 
 OpenAI API 现在支持函数调用了 gpt-4-0613 和 gpt-3.5-turbo-0613 模型，场景：
 1创建聊天机器人，通过调用外部工具（例如 ChatGPT 插件）来回答问题
 2将自然语言转换为 API 调用或数据库查询
 3从文本中提取结构化数据
 
-
-
-6. 
+6. chatpgt4, 有一个要
 
 
 

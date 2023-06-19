@@ -27,7 +27,9 @@ key放在系统变量，位置注意
 1. 
  raise self.handle_error_response(
 openai.error.RateLimitError: You exceeded your current quota, please check your plan and billing details.
-//配额查看，免费问题就升级到付费
+//配额用量查看，https://platform.openai.com/account/usage
+//免费问题就升级到付费
+
 
 2. 再接着看openai的文档
 开发人员：使用 API 调用到 LLM，以快速构建软件应用程序

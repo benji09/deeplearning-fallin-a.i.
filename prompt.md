@@ -44,6 +44,13 @@ LLM类型：基础LLM 、指令微调LLM
 3. openai version: 0.27.6
 4. some guide
 https://boostpixels.com/guide
+effective prompt: 
+    Default word the model is trained on is "ftpdnx". 
+    Weight in words means how much a word affects the image being generated.
+    If the generated image doesn't look like you, try adding "(ftpdnx person)" to your prompt. This helps the AI understand that it should use the photo that the model was trained on.
+
+
+
 
 
 
@@ -53,10 +60,13 @@ OpenAI API 现在支持函数调用了 gpt-4-0613 和 gpt-3.5-turbo-0613 模型�
 2将自然语言转换为 API 调用或数据库查询
 3从文本中提取结构化数据
 
-6. effective prompt 
-Default word the model is trained on is "ftpdnx". 
 
 
+6. 
+
+??
+github.com/mshumer/gpt-prompt-engineer
+引入了提示测试、ELO 评级系统、权重和偏差日志记录，在 Prompt 生成过程中，给你足够的数据作为评估。
 
 
 

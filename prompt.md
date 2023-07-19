@@ -69,6 +69,13 @@ github.com/mshumer/gpt-prompt-engineer
 引入了提示测试、ELO 评级系统、权重和偏差日志记录，在 Prompt 生成过程中，给你足够的数据作为评估。
 
 
+7. Some references
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+github.com/f/awesome-chatgpt-prompts
+
+
+
+
 
 
 

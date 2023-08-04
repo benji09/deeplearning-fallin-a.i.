@@ -50,10 +50,6 @@ effective prompt:
     If the generated image doesn't look like you, try adding "(ftpdnx person)" to your prompt. This helps the AI understand that it should use the photo that the model was trained on.
 
 
-
-
-
-
 5. 
 OpenAI API 现在支持函数调用了 gpt-4-0613 和 gpt-3.5-turbo-0613 模型，场景：
 1创建聊天机器人，通过调用外部工具（例如 ChatGPT 插件）来回答问题
@@ -72,6 +68,12 @@ github.com/mshumer/gpt-prompt-engineer
 7. Some references
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 github.com/f/awesome-chatgpt-prompts
+
+Generated Knowledge Prompting for Commonsense Reasoning
+Automatic Chain of Thought Prompting in Large Language Models
+A universal local knowledge base solution based on vector database and GPT3.5
+
+
 
 
 

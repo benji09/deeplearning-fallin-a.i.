@@ -66,8 +66,12 @@ github.com/mshumer/gpt-prompt-engineer
 
 
 7. Some references
+https://github.com/dair-ai/Prompt-Engineering-Guide
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+https://arxiv.org/abs/2305.12715
 github.com/f/awesome-chatgpt-prompts
+
 
 Generated Knowledge Prompting for Commonsense Reasoning
 Automatic Chain of Thought Prompting in Large Language Models

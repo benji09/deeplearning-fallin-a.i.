@@ -79,9 +79,36 @@ A universal local knowledge base solution based on vector database and GPT3.5
 
 
 
+By June 
+
+
+
+8. 上下文 
+    30000？
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Bottom: 
 “The hottest new programming language is English”
 might not be needed in three years, maybe one or two years.
+
+
+
+
+
 
 
 

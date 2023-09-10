@@ -86,13 +86,9 @@ By June
 8. 上下文 
     30000？
 
-
-
-
-
-
-
-
+9. basic terms 
+    Hallucination
+    Toxicity
 
 
 
@@ -107,6 +103,15 @@ might not be needed in three years, maybe one or two years.
 
 
 
+AIGC 
+report 
+Stable Diffusion,可看作DALL-E2的开源实现
+Others
+
+220 * 5 
+1100 
+80 5 
+700 
 
 
 

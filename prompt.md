@@ -91,11 +91,10 @@ By June
     Toxicity
 
 
+10. 
+关于泛化能力
 
-
-
-
-
+ 
 
 Bottom: 
 “The hottest new programming language is English”
@@ -103,15 +102,17 @@ might not be needed in three years, maybe one or two years.
 
 
 
-AIGC 
-report 
-Stable Diffusion,可看作DALL-E2的开源实现
-Others
 
-220 * 5 
-1100 
-80 5 
-700 
+
+
+
+
+
+
+
+
+
+
 
 
 

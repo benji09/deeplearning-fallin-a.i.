@@ -91,8 +91,19 @@ By June
     Toxicity
 
 
-10. 
+
+
 关于泛化能力
+NLP  advanced
+xl apparently more faster, better
+
+
+
+
+
+
+
+
 
  
 

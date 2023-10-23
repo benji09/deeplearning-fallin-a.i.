@@ -90,6 +90,9 @@ By June
     Hallucination
     Toxicity
 
+will do
+中文造诣提高策略步骤
+
 
 
 
@@ -97,19 +100,10 @@ By June
 NLP  advanced
 xl apparently more faster, better
 
-
-
-
-
-
-
-
-
- 
-
 Bottom: 
 “The hottest new programming language is English”
 might not be needed in three years, maybe one or two years.
+
 
 
 

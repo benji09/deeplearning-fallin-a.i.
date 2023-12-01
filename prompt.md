@@ -96,13 +96,25 @@ will do
 
 
 
+
+
+
 关于泛化能力
 NLP  advanced
 xl apparently more faster, better
 
+
+
+文言一心的插件，说图，运用对比
+
 Bottom: 
 “The hottest new programming language is English”
 might not be needed in three years, maybe one or two years.
+
+
+
+
+
 
 
 

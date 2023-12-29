@@ -71,6 +71,8 @@ https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
 https://arxiv.org/abs/2305.12715
 github.com/f/awesome-chatgpt-prompts
+https://arxiv.org/abs/2312.16171
+https://platform.openai.com/docs/guides/prompt-engineering
 
 
 Generated Knowledge Prompting for Commonsense Reasoning

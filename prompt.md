@@ -73,6 +73,8 @@ https://arxiv.org/abs/2305.12715
 github.com/f/awesome-chatgpt-prompts
 https://arxiv.org/abs/2312.16171
 https://platform.openai.com/docs/guides/prompt-engineering
+https://github.com/antirez/freakwan/blob/main/osx-bte-cli/SerialBTE.m
+
 
 
 Generated Knowledge Prompting for Commonsense Reasoning
@@ -94,10 +96,7 @@ By June
 
 will do
 中文造诣提高策略步骤
-
-
-
-
+应用应用应用
 
 
 
@@ -112,6 +111,12 @@ xl apparently more faster, better
 Bottom: 
 “The hottest new programming language is English”
 might not be needed in three years, maybe one or two years.
+
+
+
+
+
+
 
 
 

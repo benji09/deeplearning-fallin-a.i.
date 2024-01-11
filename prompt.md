@@ -105,6 +105,13 @@ NLP  advanced
 xl apparently more faster, better
 
 
+AI语音生成器 (weekend comment)
+lovo.ai 
+elevenlabs
+murf.ai 
+
+
+
 
 文言一心的插件，说图，运用对比
 

@@ -112,8 +112,15 @@ murf.ai
 
 
 
+2.19 bla
+官方文档看一下，分步解答很好
+sora太牛逼了，现在技术迭代有点心慌了呜呜呜~
 
-文言一心的插件，说图，运用对比
+
+
+
+
+
 
 Bottom: 
 “The hottest new programming language is English”

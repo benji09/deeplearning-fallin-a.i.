@@ -121,6 +121,11 @@ doubao accessment
 
 
 
+others: 
+扩散模型是如何工作
+Dr Shaopin Ma  book 
+
+
 
 
 Bottom: 

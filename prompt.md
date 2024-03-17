@@ -75,6 +75,7 @@ https://arxiv.org/abs/2312.16171
 https://platform.openai.com/docs/guides/prompt-engineering
 https://github.com/antirez/freakwan/blob/main/osx-bte-cli/SerialBTE.m
 
+https://www.yuque.com/xinntao/nm1yxs/wvritz5ulgv3qriu
 
 
 Generated Knowledge Prompting for Commonsense Reasoning
@@ -119,11 +120,10 @@ RAG for LLMs how to explain
 doubao accessment
 
 
-
-
 others: 
 扩散模型是如何工作
 Dr Shaopin Ma  book 
+
 
 
 

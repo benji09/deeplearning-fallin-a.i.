@@ -74,8 +74,11 @@ github.com/f/awesome-chatgpt-prompts
 https://arxiv.org/abs/2312.16171
 https://platform.openai.com/docs/guides/prompt-engineering
 https://github.com/antirez/freakwan/blob/main/osx-bte-cli/SerialBTE.m
-
+https://groq.com/
 https://www.yuque.com/xinntao/nm1yxs/wvritz5ulgv3qriu
+
+https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat
+https://huggingface.co/datasets/HuggingFaceFW/fineweb
 
 
 Generated Knowledge Prompting for Commonsense Reasoning
@@ -123,10 +126,13 @@ doubao accessment
 others: 
 扩散模型是如何工作
 Dr Shaopin Ma  book 
+Mistral
+RAG papers Shi-Qi Yan
 
 
 中文分享知识文档
 https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?mark_id=followtopweibo&continueFlag=660e4b571a54d5129818f620289dca7d
+
 
 Bottom: 
 “The hottest new programming language is English”

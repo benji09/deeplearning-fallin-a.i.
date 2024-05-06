@@ -128,6 +128,7 @@ others:
 Dr Shaopin Ma  book 
 Mistral
 RAG papers Shi-Qi Yan
+Llama library
 
 
 中文分享知识文档

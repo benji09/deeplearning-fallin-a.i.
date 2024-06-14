@@ -2,11 +2,6 @@ About prompt engineering
 
 我用中文最易懂的方式写
 
-1 吴恩达的prompt提示工程
-
-2 prompt实践方面
-
-3 
 
 https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 
@@ -49,13 +44,11 @@ effective prompt:
     Weight in words means how much a word affects the image being generated.
     If the generated image doesn't look like you, try adding "(ftpdnx person)" to your prompt. This helps the AI understand that it should use the photo that the model was trained on.
 
-
 5. 
 OpenAI API 现在支持函数调用了 gpt-4-0613 和 gpt-3.5-turbo-0613 模型，场景：
 1创建聊天机器人，通过调用外部工具（例如 ChatGPT 插件）来回答问题
 2将自然语言转换为 API 调用或数据库查询
 3从文本中提取结构化数据
-
 
 
 6. 
@@ -69,14 +62,11 @@ github.com/mshumer/gpt-prompt-engineer
 https://github.com/dair-ai/Prompt-Engineering-Guide
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
-https://arxiv.org/abs/2305.12715
 github.com/f/awesome-chatgpt-prompts
-https://arxiv.org/abs/2312.16171
 https://platform.openai.com/docs/guides/prompt-engineering
 https://github.com/antirez/freakwan/blob/main/osx-bte-cli/SerialBTE.m
 https://groq.com/
 https://www.yuque.com/xinntao/nm1yxs/wvritz5ulgv3qriu
-
 https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat
 https://huggingface.co/datasets/HuggingFaceFW/fineweb
 

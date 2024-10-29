@@ -127,6 +127,10 @@ https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?mark_id=followtopwei
 
 
 
+
+
+
+
 Bottom: 
 “The hottest new programming language is English”
 might not be needed in three years, maybe one or two years.

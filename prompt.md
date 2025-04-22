@@ -70,6 +70,7 @@ https://www.yuque.com/xinntao/nm1yxs/wvritz5ulgv3qriu
 https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat
 https://huggingface.co/datasets/HuggingFaceFW/fineweb
 
+《Learning to Attribute with Attention》B Cohen-Wang, Y Chuang, A Madry 
 
 Generated Knowledge Prompting for Commonsense Reasoning
 Automatic Chain of Thought Prompting in Large Language Models
@@ -127,8 +128,6 @@ marscode about some algorithms
 
 中文分享知识文档
 https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?mark_id=followtopweibo&continueFlag=660e4b571a54d5129818f620289dca7d
-
-
 
 
 

@@ -132,7 +132,7 @@ https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?mark_id=followtopwei
 
 
 Application
-https://www.aishort.top/
+可视化的prompt国外网站搜索，like Math, algorithm，thought, abstract conception。 
 
 
 

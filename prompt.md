@@ -91,7 +91,8 @@ By June
 
 will do
 中文造诣提高策略步骤
-应用应用应用
+
+
 
 
 
@@ -130,7 +131,8 @@ marscode about some algorithms
 https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?mark_id=followtopweibo&continueFlag=660e4b571a54d5129818f620289dca7d
 
 
-
+Application
+https://www.aishort.top/
 
 
 
